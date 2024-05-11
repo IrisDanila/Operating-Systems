@@ -1,0 +1,20 @@
+dir1/input2/fis2.txt:
+ Marca temporala=2024-05-11 19:19:19
+ Dimensiune=29 bytes
+ Permisiuni=420
+ Ultima modificare=Sat May 11 13:52:09 2024
+ Numar Inode=1441527
+
+dir2/input2/fis2.txt:
+ Marca temporala=2024-05-11 19:19:19
+ Dimensiune=20 bytes
+ Permisiuni=420
+ Ultima modificare=Sat May 11 13:49:08 2024
+ Numar Inode=1442188
+
+dir3/input1/fis1.txt:
+ Marca temporala=2024-05-11 19:19:19
+ Dimensiune=75 bytes
+ Permisiuni=420
+ Ultima modificare=Sat May 11 16:24:08 2024
+ Numar Inode=1442228
